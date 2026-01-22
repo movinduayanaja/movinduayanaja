@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Movindu Ayanaja</h1>
-<h3 align="center">A passionate full stack developer form Sri Lanka.</h3>
+<h3 align="center">A passionate full stack developer / software engineer form Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgawpa9ji5mj6dy0m3w4z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=movinduayanaja&label=Profile%20views&color=0e75b6&style=flat" alt="movinduayanaja" /> </p>
