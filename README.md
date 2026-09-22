@@ -24,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=movinduayanaja&show_icons=true&locale=en&layout=compact" alt="movinduayanaja" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=movinduayanaja&show_icons=true&locale=en" alt="movinduayanaja" /></p>
-what is the issue. not display perferctly this
